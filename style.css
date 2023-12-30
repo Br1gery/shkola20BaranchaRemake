@@ -767,3 +767,13 @@ footer {
     border: 0;
     width: 100%;
 }
+
+.gerb__a:hover{
+    color: #000;
+    text-decoration: none;
+}
+
+.gerb__a{
+    color: #000;
+    text-decoration: none;
+}
